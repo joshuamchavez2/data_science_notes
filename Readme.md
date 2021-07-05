@@ -6,7 +6,7 @@
 Q   I can use the _____________ clause to slice my data and analyze different sections by a single metric
     using an aggregate function.
 
-A   GROUP BY 
+A   GROUP BY
 -->
 
 <!-- 
@@ -25,26 +25,26 @@ A   UPDATE Designer SET PhoneNo = '01224123456' WHERE DesignerID = 'SMI01';
 <!-- 
 Q   To remove a record from a table which SQL statement would you use?
 
-A   DELETE 
+A   DELETE
 -->
 
 <!--
 Q   A ________________ is a reserved word that performs an operation.
 
-A   Keyword 
+A   Keyword
 -->
 
 <!-- 
 Q   Which query returns all items in the Item table sorted from the lowest priced to the highest priced?
 
-A   SELECT * FROM Items ORDER BY Price ASC; 
+A   SELECT * FROM Items ORDER BY Price ASC;
 -->
 
 <!-- 
 Q   A ______________ key is when a table has a primary key that's actually a unique combination of more
     than one column; it's a multiple-column index.
 
-A   composite 
+A   composite
 -->
 
 <!-- 
